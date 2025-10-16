@@ -63,3 +63,10 @@ The final optimised model achieved outstanding results:
    git clone https://github.com/Ruairibradley/Email-Spam-Classification.git
    cd Email-Spam-Classification
 
+2. Open the file in your IDE:
+  AML_Code_Task2.ipynb
+3. Follow the notebook instructions and run code sequentially.
+4. View Results.
+5. Can also upload file to Google Colab instantly for no setup required. 
+
+
