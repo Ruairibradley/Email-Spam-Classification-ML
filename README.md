@@ -69,6 +69,17 @@ The final optimised model achieved outstanding results:
 
 ---
 
+## Visual Results
+
+<p align="center">
+  <img src="./images/spam%20detector%20image.png" width="650"/>
+</p>
+<p align="center"><em>
+Confusion matrix (left) and class-wise evaluation metrics (right) for the final spam detection model.  
+Out of 2,172 messages, the model misclassified only five (four false positives and one false negative), achieving an overall accuracy of 0.998 and F1-scores above 0.99 for both classes.
+</em></p>
+
+
 ## How to Run
 
 1. **Clone this repository:**
