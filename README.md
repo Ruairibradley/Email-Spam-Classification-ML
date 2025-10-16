@@ -9,6 +9,19 @@ The model classifies emails as either *spam* or *ham (not spam)* by analysing th
 Developed as part of the *Applied Machine Learning* module at the University of Sussex (2025).
 
 ---
+## Full Report
+
+See section of the report relevant to spam detection.
+A detailed technical report discussing the experimental design, model selection, and evaluation is available here:
+
+[Download Full Report (PDF)](./Report.pdf)
+
+The report includes:
+- Background on spam detection and NLP techniques  
+- Implementation details for feature extraction and model training  
+- Quantitative performance analysis and visual results  
+- Discussion of accuracy, precision, recall, and F1-score findings
+
 
 ## Overview
 
